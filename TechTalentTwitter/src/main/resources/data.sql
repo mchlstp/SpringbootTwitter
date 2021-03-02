@@ -1,1 +1,1 @@
- INSERT `role` VALUES (1,'USER');
+ INSERT into `role` VALUES (1,'USER');

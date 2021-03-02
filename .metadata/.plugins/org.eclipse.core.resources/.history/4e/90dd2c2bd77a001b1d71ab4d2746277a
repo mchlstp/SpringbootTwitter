@@ -1,0 +1,1 @@
+ INSERT `role` VALUES (1,'USER');

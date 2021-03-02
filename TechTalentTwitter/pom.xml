@@ -14,7 +14,7 @@
 	<name>TechTalentTwitter</name>
 	<description>Spring boot version of Twitter!</description>
 	<properties>
-		<java.version>1.8</java.version>
+		<java.version>15</java.version>
 	</properties>
 	<dependencies>
 		<dependency>
@@ -79,6 +79,13 @@
         <artifactId>prettytime</artifactId>
         <version>4.0.1.Final</version>
     </dependency>
+    
+    <dependency>
+   <groupId>org.ocpsoft.prettytime</groupId>
+   <artifactId>prettytime</artifactId>
+   <version>5.0.0.Final</version>
+</dependency>
+    
 
 	</dependencies>
 

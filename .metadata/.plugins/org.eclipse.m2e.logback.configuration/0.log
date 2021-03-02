@@ -480,3 +480,303 @@ org.eclipse.core.runtime.CoreException: Could not resolve artifact org.ocpsoft.p
 2021-03-01 14:52:28,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2021-03-01 14:52:28,274 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
 2021-03-01 14:52:28,275 [Worker-27: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-01 15:03:45,917 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-01 15:42:18,758 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-01 15:43:33,611 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-01 15:43:33,615 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-01 15:43:33,621 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-01 15:43:33,662 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-01 15:43:33,693 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-01 15:43:33,694 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-01 15:43:33,694 [Worker-1: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 07:55:20,341 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2021-03-02 08:00:43,822 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:00:43,825 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:00:43,829 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 08:00:43,878 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 08:00:43,893 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:00:43,893 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:00:43,893 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 08:22:13,096 [Worker-4: Building] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tts:TechTalentTwitter:0.0.1-SNAPSHOT @ C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\pom.xml.
+2021-03-02 08:22:17,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:22:17,656 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:22:17,659 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 08:22:17,660 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 08:22:17,665 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:22:17,666 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:22:17,667 [Worker-4: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 08:57:30,497 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:57:30,498 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:57:30,500 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 08:57:30,501 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 08:57:30,517 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:57:30,517 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:57:30,518 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 08:59:05,135 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:59:05,135 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:59:05,135 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 08:59:05,136 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 08:59:05,150 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 08:59:05,150 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 08:59:05,150 [Worker-28: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:00:51,817 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:00:51,819 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:00:51,819 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:00:51,820 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:00:51,830 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:00:51,830 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:00:51,831 [Worker-26: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:04:37,118 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:04:37,118 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:04:37,118 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:04:37,182 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:04:37,191 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:04:37,191 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:04:37,191 [Worker-33: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:26:03,048 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:26:03,049 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:26:03,050 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:26:03,050 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:26:03,061 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:26:03,061 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:26:03,062 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:35:54,561 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:35:54,561 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:35:54,562 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:35:54,563 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:35:54,575 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:35:54,576 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:35:54,576 [Worker-40: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:36:11,097 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:36:11,098 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:36:11,098 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:36:11,099 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:36:11,111 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:36:11,112 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:36:11,112 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:39:51,707 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:39:51,708 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:39:51,708 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 09:39:51,708 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:39:51,719 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:39:51,719 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:39:51,720 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:56:01,656 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:56:01,656 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:56:01,660 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 09:56:01,674 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 09:56:01,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 09:56:01,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 09:56:01,685 [Worker-53: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 09:57:59,075 [Start Help Server] INFO  org.eclipse.jetty.util.log - Logging initialized @7381063ms to org.eclipse.jetty.util.log.Slf4jLog
+2021-03-02 09:57:59,294 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-9.4.35.v20201120; built: 2020-11-27T20:36:51.615Z; git: bdc54f03a5e0a7e280fab27f55c3c75ee8da89fb; jvm 15.0.1+9-18
+2021-03-02 09:57:59,318 [Start Help Server] INFO  org.eclipse.jetty.server.session - DefaultSessionIdManager workerName=node0
+2021-03-02 09:57:59,318 [Start Help Server] INFO  org.eclipse.jetty.server.session - No SessionScavenger set, using defaults
+2021-03-02 09:57:59,322 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 660000ms
+2021-03-02 09:57:59,362 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started o.e.j.s.ServletContextHandler@152ad8e5{/help,null,AVAILABLE}
+2021-03-02 09:57:59,385 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3e592e7e{HTTP/1.1, (http/1.1)}{127.0.0.1:54073}
+2021-03-02 09:57:59,385 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started @7381373ms
+2021-03-02 09:57:59,386 [Start Help Server] INFO  org.eclipse.jetty.server.session - node0 Scavenging every 726000ms
+2021-03-02 10:12:36,236 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.tts:TechTalentTwitter:0.0.1-SNAPSHOT @ C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\pom.xml.
+2021-03-02 10:12:37,862 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:37,863 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:37,868 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:12:37,908 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:12:37,923 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:37,924 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:37,924 [Worker-45: Launching TechTalentTwitter - TechTalentTwitterApplication] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:12:42,089 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloading https://repo.maven.apache.org/maven2/org/ocpsoft/prettytime/prettytime/5.0.0.Final/prettytime-5.0.0.Final-sources.jar
+2021-03-02 10:12:42,162 [Worker-56: Download sources and javadoc] INFO  o.e.m.c.i.e.AbstractTransferListenerAdapter - Downloaded https://repo.maven.apache.org/maven2/org/ocpsoft/prettytime/prettytime/5.0.0.Final/prettytime-5.0.0.Final-sources.jar
+2021-03-02 10:12:42,262 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:42,262 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:42,265 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:12:42,289 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:12:42,567 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:42,567 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:42,568 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:12:42,876 [Worker-56: Download sources and javadoc] INFO  o.e.m.j.internal.DownloadSourcesJob - Downloaded sources for org.ocpsoft.prettytime:prettytime:5.0.0.Final
+2021-03-02 10:12:44,158 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:44,158 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:44,158 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:12:44,159 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:12:44,162 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:12:44,162 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:12:44,162 [Worker-58: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:43:36,612 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:43:36,613 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:43:36,616 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:43:36,662 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:43:36,667 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:43:36,667 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:43:36,668 [Worker-69: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:46:17,394 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:46:17,395 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:46:17,396 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:46:17,409 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:46:17,416 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:46:17,416 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:46:17,416 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:48:15,644 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:48:15,645 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:48:15,647 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:48:15,686 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:48:15,694 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:48:15,694 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:48:15,694 [Worker-56: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:50:13,803 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:50:13,803 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:50:13,805 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:50:13,810 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:50:13,910 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:50:13,910 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:50:13,910 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:53:52,083 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:53:52,083 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:53:52,083 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:53:52,084 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:53:52,093 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:53:52,094 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:53:52,094 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:55:08,010 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:08,011 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:08,011 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:55:08,011 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:55:08,014 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:08,014 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:08,014 [Worker-66: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:55:18,568 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:18,569 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:18,569 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:55:18,570 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:55:18,576 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:18,576 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:18,576 [Worker-70: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:55:25,847 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:25,849 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:25,852 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:55:25,893 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 8 resources
+2021-03-02 10:55:25,909 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:55:25,910 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:55:25,910 [Worker-84: Building Workspace] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 10:59:22,284 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:59:22,284 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:59:22,284 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 10:59:22,285 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 10:59:22,290 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 10:59:22,290 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 10:59:22,290 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:00:15,010 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:00:15,010 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:00:15,011 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:00:15,012 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:00:15,018 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:00:15,018 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:00:15,018 [Worker-81: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:04:07,512 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:07,513 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:07,513 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:04:07,513 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:04:07,519 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:07,519 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:07,519 [Worker-84: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:04:34,190 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:34,191 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:34,192 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:04:34,193 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:04:34,197 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:34,197 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:34,198 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:04:56,042 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:56,042 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:56,043 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:04:56,043 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:04:56,050 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:04:56,050 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:04:56,050 [Worker-87: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:42:28,121 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:42:28,121 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:42:28,124 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:42:28,139 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:42:28,148 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:42:28,148 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:42:28,148 [Worker-101: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:42:36,708 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:42:36,708 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:42:36,713 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:42:36,768 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:42:36,880 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:42:36,882 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:42:36,882 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:44:42,814 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:44:42,814 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:44:42,818 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:44:42,833 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:44:42,845 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:44:42,845 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:44:42,845 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:45:58,641 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:45:58,641 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:45:58,644 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:45:58,676 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:45:58,693 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:45:58,693 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:45:58,693 [Worker-107: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:46:50,762 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:46:50,762 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:46:50,765 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:46:50,779 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:46:50,804 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:46:50,804 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:46:50,804 [Worker-110: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:47:08,444 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:47:08,444 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:47:08,446 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:47:08,456 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:47:08,467 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:47:08,467 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:47:08,467 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:49:34,786 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:49:34,787 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:49:34,791 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:49:34,802 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:49:34,811 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:49:34,811 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:49:34,812 [Worker-111: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:54:23,126 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:54:23,127 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:54:23,129 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:54:23,149 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:54:23,168 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:54:23,168 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:54:23,168 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:54:38,842 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:54:38,842 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:54:38,846 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:54:38,858 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 13 resources
+2021-03-02 11:54:38,868 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:54:38,868 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:54:38,868 [Worker-108: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:57:10,116 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:57:10,117 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:57:10,117 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:57:10,118 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:57:10,129 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:57:10,130 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:57:10,130 [Worker-115: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:57:18,699 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:57:18,699 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:57:18,699 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:57:18,700 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:57:18,705 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:57:18,705 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:57:18,706 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 11:59:41,178 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:59:41,178 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:59:41,178 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2021-03-02 11:59:41,222 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2021-03-02 11:59:41,226 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2021-03-02 11:59:41,226 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2021-03-02 11:59:41,226 [Worker-113: Building] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\micha\Desktop\Projects\Twitter\TechTalentTwitter\src\test\resources
+2021-03-02 12:05:11,260 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3e592e7e{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2021-03-02 12:05:11,261 [Stop Help Server] INFO  org.eclipse.jetty.server.session - node0 Stopped scavenging
+2021-03-02 12:05:11,616 [Stop Help Server] INFO  o.e.j.server.handler.ContextHandler - Stopped o.e.j.s.ServletContextHandler@152ad8e5{/help,null,STOPPED}
